@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HR Project Objectives
 The analysis is incorporates the use two separate dashboard sheets titled "HR Summary" and the "HR Details". 
 The objectives of the analysis are to 
@@ -59,3 +60,6 @@ Geographics column
 
 Length of employment column
 - Green represents employees that are hired and are still employed while purple represents employees that have been terminated.
+=======
+# HR-Dashboard
+>>>>>>> 8d4b5f07888e4610f5ecf50e3329c0fbcf37338e
