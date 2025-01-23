@@ -26,7 +26,7 @@ The overview section aims to present a concise summary of key HR metrics, includ
 - The majority of employees are based at the headquarters in New York, with the remainder distributed across branch offices.
 - Additionally, the overview provides a detailed breakdown of employee numbers by city within each state.
 
-<img src="images/Overview_overview.png" width="100%">
+<img src="images/Overview_overview.png" width="60%">
 
 ### Demographics
 The Demographics section offers insights into the composition of the workforce such as gender, age, education and level of performance.
@@ -40,7 +40,7 @@ Education & Age
 Education & Performance
 - Employees with advanced degrees generally receive better performance evaluations. Conversely, those with only a high school education tend to have the lowest performance ratings, while PhD holders typically achieve the highest ratings. <br>
 
-<img src="images/Overview_Demographics.png" width="100%"/> 
+<img src="images/Overview Demographics.png" width="100%"/> 
 
 ### Income
 The income segment shows how average salary varies in terms of Education, Gender and Age.
@@ -55,7 +55,7 @@ Age & Salary
 - HR managers, while having the lowest average salary among managerial positions, still earn above the average threshold. Notably, the average age of HR managers is 33, which is below the overall average of 41.
 - In addition to managerial roles, there are employees in non-management positions, such as System Administrators, Sales Consultants, Software Developers, and Financial Analysts, who also earn salaries that surpass the average.
 
-<img src="images/Overview_Income.png" width="100%"/> <br>
+<img src="images/Overview Income.png" width="100%"/> <br>
 
 # HR Details Dashboard
 This dashboard provides a comprehensive list of all employees information such as demographics, role, salary, length of employment and employment status all in one view. This allows the HR team to quickly review high-level data relevant to the HR function. Having such a dashboard also allows HR to monitor internal staff movement more holistically by illustrating the number of new hires, exits, and internal transfers all in one central location.
